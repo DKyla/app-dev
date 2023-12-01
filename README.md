@@ -18,9 +18,13 @@
 </p>
 
 <p align="center">
- <a href="[https://www.instagram.com/kylbtld/]" target="_blank">
+  <a href="https://www.instagram.com/kylbtld/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
+ <a href="https://www.facebook.com/idgas.idgaf.00" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
 </p>
 <br />
 
@@ -38,7 +42,7 @@ My first repository.
  ✌️ &emsp; Love watching Anime series <br/><br/>
  ❤️ &emsp; My favorite Movie Genre is Mystery/Thriller/Psychological<br/><br/>
  ❤️ &emsp; I love my Family and my friends<br/><br/>
- 📧 &emsp; Reach me anytime:(https://www.facebook.com/idgas.idgaf.00)<br/><br/>
+ 📧 &emsp; Reach me anytime: darrenkylabutalid21@gmail.com<br/><br/>
 
 </p>
 
